@@ -10,6 +10,23 @@ A drag'n'drop enhancement pack for *Deus Ex (GOTY)* that modernizes graphics, co
 
 ---
 
+## 🔧 Requirements
+
+Before launching the game, make sure your system has the following installed:
+
+- **Microsoft Visual C++ 2015 Redistributable** (required by Kentie’s Launcher)  
+  🔗 [Download from Microsoft](https://www.microsoft.com/en-us/download/details.aspx?id=48145)
+
+- **Microsoft Visual C++ 2010 Redistributable** (required by Direct3D 10 Renderer)  
+  🔗 [Download from Microsoft](https://www.microsoft.com/en-us/download/details.aspx?id=5555)
+
+- **DirectX End-User Runtime (June 2010)** (needed for proper D3D10 renderer support)  
+  🔗 [Download from Microsoft](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
+
+✅ These only need to be installed once, most modern systems already have them, but it doesn't hurt to make sure.
+
+---
+
 ## 📦 Installation
 
 1. [Download the ZIP](https://github.com/YOUR-USERNAME/DeusEx-Enhanced-Edition/releases/latest).
@@ -22,11 +39,11 @@ A drag'n'drop enhancement pack for *Deus Ex (GOTY)* that modernizes graphics, co
 
 ## 🛠 Recommended Kentie's Launcher Configuration
 
-After launching `deusex.exe`, you’ll see a configuration window. We recommend the following settings for the best experience:
+After launching `deusex.exe`, you’ll see a configuration button. I recommend the following settings for the best experience:
 
 ### Video Options
 - **Renderer**: `Direct3D 10 Support`
-- **FPS Limit**: Set to your screen refresh rate (Set to `0` if using a NVIDIA card; see NVIDIA note below)
+- **FPS Limit**: Set to your screen refresh rate (Set to `0` if using an NVIDIA card; see NVIDIA note below)
 - **Quality**: `32 bit color`
 - **Check**: `Detail textures`
 
@@ -34,7 +51,7 @@ After launching `deusex.exe`, you’ll see a configuration window. We recommend 
 - Choose between:
   - `Fullscreen`
   - `Borderless fullscreen window` *(recommended for alt-tabbing)*
-- **Resolution**: Set to your native screen resolution (You might to select fullscreen first to set your resolution)
+- **Resolution**: Set to your native screen resolution (You might have to select fullscreen first to set your resolution)
 
 ### Field of View
 - ☑ `Custom`: `91`
@@ -57,7 +74,7 @@ This prevents stutter and heavy lags.
 
 - [Kentie’s Launcher](https://kentie.net/)
 - [New Vision Mod](https://www.moddb.com/mods/new-vision)
-- Direct3D 10 Renderer by Chris Dohnal
+- [Direct3D 10 Renderer](https://kentie.net/article/d3d10drv/)
 
 > This modpack is unofficial. All rights belong to their respective creators. Support the original devs and modders!
 
