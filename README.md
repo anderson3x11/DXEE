@@ -39,7 +39,7 @@ Before launching the game, make sure your system has the following installed:
 
 ## 🛠 Recommended Kentie's Launcher Configuration
 
-After launching `deusex.exe`, you’ll see a configuration button. I recommend the following settings for the best experience:
+After launching `deusex.exe`, you’ll see a `Configuration` button. I recommend the following settings for the best experience:
 
 ### Video Options
 - **Renderer**: `Direct3D 10 Support`
@@ -55,6 +55,9 @@ After launching `deusex.exe`, you’ll see a configuration button. I recommend t
 
 ### Field of View
 - ☑ `Custom`: `91`
+
+
+In the `Data Directories` menu in Kentie's Launcher, make sure your have `New Vision` Texture Pack checked.
 
 ---
 
